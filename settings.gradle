@@ -1,0 +1,2 @@
+rootProject.name = "adp_32_snake"
+include ':app'
